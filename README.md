@@ -18,6 +18,7 @@ To run those files you need Keil uVision environment and J-Link Software.
 
 ## Termite 
 There is an example of a Termite terminal and its output, user can write anything and it changes into morse sequence, and buzzes out the given sequence.
+
 ![termite](images/Termite.png)
 
 
